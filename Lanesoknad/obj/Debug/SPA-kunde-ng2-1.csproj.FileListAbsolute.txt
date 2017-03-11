@@ -1,0 +1,64 @@
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\csc.exe
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\vbc.exe
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\SPA-kunde-ng2.dll.config
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\SPA-kunde-ng2.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\SPA-kunde-ng2.pdb
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\EntityFramework.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\EntityFramework.SqlServer.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\Newtonsoft.Json.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\System.Net.Http.Formatting.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\System.Web.Http.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\System.Web.Http.WebHost.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\EntityFramework.xml
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\EntityFramework.SqlServer.xml
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\Newtonsoft.Json.xml
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\System.Net.Http.Formatting.xml
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\System.Web.Http.xml
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\bin\System.Web.Http.WebHost.xml
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\obj\Debug\SPA-kunde-ng2-1.csprojResolveAssemblyReference.cache
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\obj\Debug\SPA-kunde-ng2.dll
+C:\Users\Tor\Documents\Visual Studio 2015\Projects\SPA-kunde-ng2-1\SPA-kunde-ng2-1\obj\Debug\SPA-kunde-ng2.pdb
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\csc.exe
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\vbc.exe
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\SPA-kunde-ng2.dll.config
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\SPA-kunde-ng2.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\SPA-kunde-ng2.pdb
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\EntityFramework.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\Newtonsoft.Json.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\System.Net.Http.Formatting.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\System.Web.Http.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\System.Web.Http.WebHost.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\EntityFramework.xml
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\Newtonsoft.Json.xml
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\System.Net.Http.Formatting.xml
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\System.Web.Http.xml
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\bin\System.Web.Http.WebHost.xml
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\obj\Debug\SPA-kunde-ng2-1.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\obj\Debug\SPA-kunde-ng2.dll
+C:\Users\Patrick\Documents\SPE KUNDE\SPA-kunde-ng2-1\obj\Debug\SPA-kunde-ng2.pdb
